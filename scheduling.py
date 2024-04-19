@@ -41,7 +41,7 @@ class Scenario:
             r_final.append([zone_name, r_user])
         return r_final
     
-    def maxCI_SLA(self):
+    def maxCI_MinRate(self):
         r_final = []
         # TODO: To Complete
         return r_final
