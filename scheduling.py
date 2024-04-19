@@ -42,7 +42,8 @@ class Scenario:
         return r_final
     
     def maxCI_SLA(self):
-        # TODO: To Complete∫
+        r_final = []
+        # TODO: To Complete
         return r_final
     
 def main():
