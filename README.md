@@ -7,4 +7,4 @@ Los algoritmos de scheduling se pueden implementar programáticamente con script
 ## Objetivos
 
 1) El alumno debe bajarse el código, entenderlo y ejecutarlo.
-2) Completar el método maxCI_SLA. Comprobarlo con el apartado 2 de la solución del *Ejercicio 2: Planifificación dependiente del canal*.
+2) Completar el método maxCI_SLA, que implementa el algoritmo MAX C/I pero asegurando SLA a todos los usuarios. Comprobarlo con el apartado 2 de la solución del *Ejercicio 2: Planifificación dependiente del canal*.
